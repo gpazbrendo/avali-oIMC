@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMCCorporal</string>
+    <string name="action_settings">Settings</string>
+    <string name="inf_altura">Informe a Altura (M)</string>
+    <string name="inf_peso">Informe o Peso (Kg)</string>
+    <string name="inf_dados">Informe seus dados</string>
+    <string name="botão_calcular">Calcular</string>
+    <string name="total">Sua massa corporal é:</string>
+    <string name="Abaixo_peso">Abaixo do peso ideal</string>
+    <string name="peso_ideal">Peso ideal</string>
+    <string name="acima_peso">Acima do peso(sobrepeso)</string>
+    <string name="obesidade_grauI">Obesidade grau I </string>
+    <string name="obesidade_grauII">Obesidade grau II</string>
+    <string name="obsidade_grauIII">Obesidade grau III</string>
+    <string name="resultado">Resultado</string>
+  </resources>
